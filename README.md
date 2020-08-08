@@ -1,1 +1,1 @@
-# NLP-lab
+# ML Basics and Algorithms
